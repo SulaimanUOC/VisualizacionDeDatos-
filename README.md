@@ -1,4 +1,4 @@
-# VisualizacionDeDatos-PEC2
+# Visualización de datos - PEC2
 
 En este repositorio se publican los enlaces a las diferentes ténicas de visualización:
 
